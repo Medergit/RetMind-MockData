@@ -111,7 +111,7 @@ const Store = () => {
     <>
         {stores.length
             ?   <div>
-                    <table style={{margin:'0 auto', padding:'10px 0 40px'}}>
+                    <table style={{marginLeft:'20px', padding:'10px 0 40px'}}>
                         <tbody>
                             <tr>
                                 <th>Store Months</th>
