@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RetMind-MockData/static/css/main.c7ec3132.css",
+    "main.js": "/RetMind-MockData/static/js/main.836141fb.js",
+    "index.html": "/RetMind-MockData/index.html",
+    "main.c7ec3132.css.map": "/RetMind-MockData/static/css/main.c7ec3132.css.map",
+    "main.836141fb.js.map": "/RetMind-MockData/static/js/main.836141fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.836141fb.js"
+  ]
+}
